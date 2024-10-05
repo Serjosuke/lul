@@ -1,0 +1,3 @@
+[submodule "phytoplankton.github.io"]
+	path = phytoplankton.github.io
+	url = git@github.com:Serjosuke/phytoplankton.github.io.git
